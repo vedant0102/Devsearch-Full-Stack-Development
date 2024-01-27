@@ -1,12 +1,9 @@
 # DevSearch
-Sourcode and Resources for Django 2021 Course
-
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
+Sourcode and Resources for Django 
 
 
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
-* 2 - create a virtual environment and activate
+* - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
 *  - envname\scripts\activate
@@ -22,7 +19,7 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 * Rate others work
 * Search other developers
 
-# Course Overview
+# Skills
 * Basic Djagno Overview
 * Database Design and Models
 * Static Files
